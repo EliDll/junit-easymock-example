@@ -1,4 +1,4 @@
-# g08_test_with_mock
+# junit-easymock-example
 
 Sample JUnit Test for System with Mock collaborators
 ____________
